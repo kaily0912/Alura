@@ -2,6 +2,10 @@ body {
     background:#F2C0B5
 }
 
+#banner {
+    width: 100%;
+}
+
 p {
     text-align: center;
 }
@@ -9,3 +13,7 @@ p {
  em strong {
     color: red;
 }
+
+<img id="banner" src="banner.jpg">
+
+<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
