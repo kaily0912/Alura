@@ -2,6 +2,10 @@ body {
     background:#F2C0B5
 }
 
+h1 {
+    font-size: 60px; text-align: center"
+}
+
 #banner {
     width: 100%;
 }
