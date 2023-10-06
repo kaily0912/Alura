@@ -31,9 +31,6 @@ h2 {
     text-align: center;
 }
 
-ul {
-    display: inline-block;
-}
 
 
 .itens {
@@ -42,6 +39,10 @@ ul {
 
 .benefícios {
     background: #845757;
+}
+
+ul {
+    display: inline-block;
 }
 
 .imagembeneficios{
