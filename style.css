@@ -11,7 +11,7 @@ ody {
 	padding: 30px;
 }
 
-h1 {
+.titulo {
 	text-align: center
 }
 
@@ -36,9 +36,6 @@ em strong {
 	padding: 20px;
 }
 
-h2 {
-	text-align: center;
-}
 ul {
 	display: inline-block;
 	vertical-align: top;
